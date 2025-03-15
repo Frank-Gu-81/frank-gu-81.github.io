@@ -17,10 +17,10 @@ function Project() {
       <h1>Personal Projects</h1>
       <div className="projects-grid">
         <div className="project">
-          <Link to="/project-page/1">
-            <img src={golang} className="zoom" alt="thumbnail" width="100%" />
-            <h2>Distributed Systems Project</h2>
-          </Link>
+          {/* <Link to="/project-page/1"> */}
+          <img src={golang} className="zoom" alt="thumbnail" width="100%" />
+          <h2>Distributed Systems Project</h2>
+          {/* </Link> */}
 
           <p>
             Built a custom MapReduce framework, the Chandy-Lamport snapshot
@@ -29,10 +29,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/2">
-            <img src={smileme} className="zoom" alt="thumbnail" width="100%" />
-            <h2>SmileMe</h2>
-          </Link>
+          {/* <Link to="/project-page/2"> */}
+          <img src={smileme} className="zoom" alt="thumbnail" width="100%" />
+          <h2>SmileMe</h2>
+          {/* </Link> */}
 
           <p>
             Developed real-time facial emotion detection models using CNNs and
@@ -41,18 +41,17 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/3">
-            <img
-              src={smartparking}
-              className="zoom"
-              alt="thumbnail"
-              width="100%"
-            />
-            <h2>
-              Smart Parking System: IoT Technology and Energy Efficiency
-              Analysis
-            </h2>
-          </Link>
+          {/* <Link to="/project-page/3"> */}
+          <img
+            src={smartparking}
+            className="zoom"
+            alt="thumbnail"
+            width="100%"
+          />
+          <h2>
+            Smart Parking System: IoT Technology and Energy Efficiency Analysis
+          </h2>
+          {/* </Link> */}
 
           <p>
             Researched IoT-based Smart Parking Systems, analyzing LoRaWAN and
@@ -62,10 +61,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/4">
-            <img src={iot} className="zoom" alt="thumbnail" width="100%" />
-            <h2>Advanced IoT Communication Systems</h2>
-          </Link>
+          {/* <Link to="/project-page/4"> */}
+          <img src={iot} className="zoom" alt="thumbnail" width="100%" />
+          <h2>Advanced IoT Communication Systems</h2>
+          {/* </Link> */}
 
           <p>
             Developed IoT applications using BLE and WiFi technologies,
@@ -75,10 +74,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/5">
-            <img src={deepstuq} className="zoom" alt="thumbnail" width="100%" />
-            <h2>DeepSTUQ-Conformal Model For Traffic Flow Prediction</h2>
-          </Link>
+          {/* <Link to="/project-page/5"> */}
+          <img src={deepstuq} className="zoom" alt="thumbnail" width="100%" />
+          <h2>DeepSTUQ-Conformal Model For Traffic Flow Prediction</h2>
+          {/* </Link> */}
 
           <p>
             Developed the DeepSTUQ-Conformal model, integrating Conformalized
@@ -89,10 +88,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/6">
-            <img src={bustub} className="zoom" alt="thumbnail" width="100%" />
-            <h2>BusTub Relational Database Management System</h2>
-          </Link>
+          {/* <Link to="/project-page/6"> */}
+          <img src={bustub} className="zoom" alt="thumbnail" width="100%" />
+          <h2>BusTub Relational Database Management System</h2>
+          {/* </Link> */}
 
           <p>
             Optimized BusTub's database system by implementing an LRU-K buffer
@@ -102,15 +101,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/7">
-            <img
-              src={networking}
-              className="zoom"
-              alt="thumbnail"
-              width="100%"
-            />
-            <h2>Network Protocols and Security Analysis Tools Development</h2>
-          </Link>
+          {/* <Link to="/project-page/7"> */}
+          <img src={networking} className="zoom" alt="thumbnail" width="100%" />
+          <h2>Network Protocols and Security Analysis Tools Development</h2>
+          {/* </Link> */}
 
           <p>
             Developed multi-threaded TCP/UDP communication applications,
@@ -120,15 +114,10 @@ function Project() {
           </p>
         </div>
         <div className="project">
-          <Link to="/project-page/8">
-            <img
-              src={platformer}
-              className="zoom"
-              alt="thumbnail"
-              width="100%"
-            />
-            <h2>Unity Game Development</h2>
-          </Link>
+          {/* <Link to="/project-page/8"> */}
+          <img src={platformer} className="zoom" alt="thumbnail" width="100%" />
+          <h2>Unity Game Development</h2>
+          {/* </Link> */}
 
           <p>
             Developed two Unity games, Squarebound Adventures, a physics-based
