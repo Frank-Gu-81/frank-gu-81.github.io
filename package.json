@@ -2,7 +2,7 @@
   "name": "shaopeng-gu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frank-gu-81.github.io/Shaopeng-Gu/",
+  "homepage": "https://frank-gu-81.github.io/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
