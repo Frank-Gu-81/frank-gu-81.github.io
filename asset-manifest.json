@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.e83910f4.css",
-    "main.js": "/static/js/main.3c7603ee.js",
+    "main.css": "/static/css/main.41332356.css",
+    "main.js": "/static/js/main.fa321101.js",
     "static/js/453.e361c5c5.chunk.js": "/static/js/453.e361c5c5.chunk.js",
-    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-cus-light.jpg": "/static/media/bg-cus-light.a21f776f10af122d7aa9.jpg",
     "static/media/SmileMe.png": "/static/media/SmileMe.8d2a7dcfb9bc1500a17f.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/iot.jpg": "/static/media/iot.abad6eae9a0ba42fc925.jpg",
@@ -18,12 +18,12 @@
     "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
     "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/index.html",
-    "main.e83910f4.css.map": "/static/css/main.e83910f4.css.map",
-    "main.3c7603ee.js.map": "/static/js/main.3c7603ee.js.map",
+    "main.41332356.css.map": "/static/css/main.41332356.css.map",
+    "main.fa321101.js.map": "/static/js/main.fa321101.js.map",
     "453.e361c5c5.chunk.js.map": "/static/js/453.e361c5c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e83910f4.css",
-    "static/js/main.3c7603ee.js"
+    "static/css/main.41332356.css",
+    "static/js/main.fa321101.js"
   ]
 }
