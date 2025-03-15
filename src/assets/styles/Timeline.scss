@@ -1,0 +1,71 @@
+.vertical-timeline span {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+}
+
+.vertical-timeline p {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element p {
+    font-family: 'poppins';
+    font-size: 0.85rem;
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element h3 {
+    font-family: 'poppins';
+    font-size: 1.2rem;
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element h4 {
+    font-family: 'poppins';
+    font-size: 1.0rem;
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element h5 {
+    font-family: 'poppins';
+    font-size: 0.8rem;
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element span {
+    color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element .vertical-timeline-element-date {
+    color: white;
+}
+
+.company-link {
+    color: rgb(39, 40, 34);
+    text-decoration: underline;
+}
+
+.job-title {
+    font-style: italic;
+}
+
+.svg-inline--fa {
+    color: white;
+}
+
+.individual-work-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.individual-work-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1170px) {
+    .vertical-timeline-element .vertical-timeline-element-date {
+        color: rgb(39, 40, 34);
+    }
+}
