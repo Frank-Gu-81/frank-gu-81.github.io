@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e83910f4.css",
+    "main.js": "/static/js/main.3c7603ee.js",
+    "static/js/453.e361c5c5.chunk.js": "/static/js/453.e361c5c5.chunk.js",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/SmileMe.png": "/static/media/SmileMe.8d2a7dcfb9bc1500a17f.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/iot.jpg": "/static/media/iot.abad6eae9a0ba42fc925.jpg",
+    "static/media/smartparking.jpg": "/static/media/smartparking.e4cef0b9179967b2dbb4.jpg",
+    "static/media/platformer.jpg": "/static/media/platformer.a7aa706f593588c0b7db.jpg",
+    "static/media/deepstuq.png": "/static/media/deepstuq.4fafdcfab4944b71904c.png",
+    "static/media/bustub.png": "/static/media/bustub.53323881b6d259fbe4c3.png",
+    "static/media/golang.jpg": "/static/media/golang.7974d42ee63006e115a4.jpg",
+    "static/media/networking.jpg": "/static/media/networking.d33f2f29045f3d9ec3a9.jpg",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
+    "index.html": "/index.html",
+    "main.e83910f4.css.map": "/static/css/main.e83910f4.css.map",
+    "main.3c7603ee.js.map": "/static/js/main.3c7603ee.js.map",
+    "453.e361c5c5.chunk.js.map": "/static/js/453.e361c5c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e83910f4.css",
+    "static/js/main.3c7603ee.js"
+  ]
+}
