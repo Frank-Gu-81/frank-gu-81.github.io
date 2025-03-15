@@ -53,7 +53,7 @@ const labelsMachineLearning = [
   "Keras",
   "Hugging Face",
   "Graph Neural Networks",
-  "Retrieval-Augmented Generation (RAG)",
+  "R",
 ];
 
 const labelsDatabase = [

@@ -37,7 +37,7 @@ function Timeline() {
                 </a>
               </h3>
               <h3 className="vertical-timeline-element-title">
-                2024.10 - present
+                2024.10 - 2025.03
               </h3>
             </div>
             <div className="individual-work-row">
@@ -50,16 +50,16 @@ function Timeline() {
             </div>
             {/* <h4 className="vertical-timeline-element-subtitle">Evanston, IL</h4> */}
             <p>
-              • Architected and optimized event-driven backend systems capable
-              of handling large-scale event data in real-time by integrating
-              multiple external platforms, including Ontraport CRM and Google
-              APIs, to automate workflows and synchronize user data
+              • Engineered event-driven backend systems, integrating Ontraport
+              CRM & Google APIs for real-time data synchronization
             </p>
             <p>
-              • Implemented CI/CD pipelines using GitHub Actions, Docker, and
-              Amazon ECR and ECS, automating the build, test, and deployment of
-              back-end services for scalable and containerized production
-              environments, reducing deployment time by 50%
+              • Optimized asynchronous database queries, cutting execution time
+              by 38.5% via connection pooling & query restructuring
+            </p>
+            <p>
+              • Automated CI/CD pipelines with GitHub Actions, Docker, and AWS
+              ECS, reducing deployment time by 50%
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -94,16 +94,12 @@ function Timeline() {
             </div>
             {/* <h4 className="vertical-timeline-element-subtitle">Evanston, IL</h4> */}
             <p>
-              • Developed and integrated a Stripe payment system into a REST API
-              and front-end using React-Redux, Stripe API, and Node.js to
-              streamline payment process, enabling secure, real-time payments
-              and improving the company’s monetization
+              • Enhanced a RAG pipeline with Python & TensorFlow, reducing
+              hallucination rates & enhancing AI-driven market analysis
             </p>
             <p>
-              • Improved content generation using Retrieval-Augmented Generation
-              (RAG) for internal and external data, leveraging Python,
-              TensorFlow, and NLP models to enhance output accuracy while
-              optimizing retrieval strategies and prompt engineering
+              • Integrated Stripe payments into a REST API & React-Redux
+              frontend, enabling secure, real-time transactions
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -138,16 +134,12 @@ function Timeline() {
             </div>
             {/* <h4 className="vertical-timeline-element-subtitle">Evanston, IL</h4> */}
             <p>
-              • Collaborated on improving the efficiency and reducing the false
-              positive rate of Anti-Money Laundering (AML) and Counter-Terrorist
-              Financing systems using Message Passing Neural Networks (MPNNs) on
-              heterogeneous graphs
+              • Optimized AML & Counter-Terrorist Financing systems using
+              Message Passing Neural Networks, reducing false positives
             </p>
             <p>
-              • Integrated data from SZSE, HKEX, and internal sources, utilizing
-              Neo4j for graph management; Employed node classification and link
-              prediction, boosting detection accuracy by 12% and significantly
-              enhancing financial security
+              • Integrated SZSE, HKEX, & internal data with Neo4j graph
+              database, improving detection accuracy by 12%
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -182,18 +174,12 @@ function Timeline() {
             </div>
             {/* <h4 className="vertical-timeline-element-subtitle">Evanston, IL</h4> */}
             <p>
-              • Engineered a secure backend server in TypeScript, hosted on AWS
-              using S3, EC2, and RDS for PostgreSQL management with Sequelize
-              ORM, providing public access to private markets and ensuring
-              secure data storage and access, reducing system downtime by 15%
-              and enhanced data integrity, enabling more reliable financial
-              analytics for the company
+              • Built a scalable backend server with TypeScript, AWS (S3, EC2,
+              RDS), & Sequelize ORM, reducing system downtime by 15%
             </p>
             <p>
-              • Designed and implemented RESTful APIs using Node.js and Express
-              to streamline data flow between the backend and frontend systems,
-              improving data retrieval efficiency by 25%, enhancing the delivery
-              of real-time financial insights the clients
+              • Designed and optimized RESTful APIs with Node.js & Express,
+              improving data retrieval by 25% for real-time market insights
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
