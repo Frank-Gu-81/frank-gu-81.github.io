@@ -7,7 +7,7 @@ import deepstuq from "../assets/images/deepstuq.png";
 import bustub from "../assets/images/bustub.png";
 import networking from "../assets/images/networking.jpg";
 import platformer from "../assets/images/platformer.jpg";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 import "../assets/styles/Project.scss";
 
