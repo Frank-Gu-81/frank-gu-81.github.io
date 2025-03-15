@@ -65,6 +65,14 @@ p, a, h1, h2, h3, h4, h5, label, button {
   justify-content: center;
 }
 
+.self-intro-container {
+  padding: 5% 10%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .header-image {
   width: 100%;
   height: 450px;
@@ -113,7 +121,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   .about-section {
-    background-image: url("./assets/images/bg-light.png");
+    background-image: url("./assets/images/bg-cus-light.jpg");
   }
 
   .skills-container svg {

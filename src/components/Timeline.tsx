@@ -19,12 +19,7 @@ function Timeline() {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{
-              background: "white",
-              color: "rgb(39, 40, 34)",
-              width: "55%",
-              transform: "translateX(-20%)",
-            }}
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
             // date="2024.10 - present"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
@@ -55,10 +50,10 @@ function Timeline() {
             </div>
             {/* <h4 className="vertical-timeline-element-subtitle">Evanston, IL</h4> */}
             <p>
-              • Archetected and optimized event-driven backend systems capable
+              • Architected and optimized event-driven backend systems capable
               of handling large-scale event data in real-time by integrating
               multiple external platforms, including Ontraport CRM and Google
-              APIs, to automate workflows and synchornize user data
+              APIs, to automate workflows and synchronize user data
             </p>
             <p>
               • Implemented CI/CD pipelines using GitHub Actions, Docker, and
@@ -70,12 +65,7 @@ function Timeline() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             // date="2020 - 2022"
-            contentStyle={{
-              background: "white",
-              color: "rgb(39, 40, 34)",
-              width: "55%",
-              transform: "translateX(+20%)",
-            }}
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -119,12 +109,7 @@ function Timeline() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             // date="2021 - 2021"
-            contentStyle={{
-              background: "white",
-              color: "rgb(39, 40, 34)",
-              width: "55%",
-              transform: "translateX(-20%)",
-            }}
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -168,12 +153,7 @@ function Timeline() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             // date="2020 - 2020"
-            contentStyle={{
-              background: "white",
-              color: "rgb(39, 40, 34)",
-              width: "55%",
-              transform: "translateX(+20%)",
-            }}
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -212,7 +192,7 @@ function Timeline() {
             <p>
               • Designed and implemented RESTful APIs using Node.js and Express
               to streamline data flow between the backend and frontend systems,
-              improving data retrieval efficiency by 25%, enhancing the deliver
+              improving data retrieval efficiency by 25%, enhancing the delivery
               of real-time financial insights the clients
             </p>
           </VerticalTimelineElement>

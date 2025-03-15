@@ -8,6 +8,7 @@ import {
   Navigation,
   Footer,
   ProjectPage,
+  About,
 } from "./components";
 import {
   BrowserRouter as Router,
@@ -19,7 +20,7 @@ import FadeIn from "./components/FadeIn";
 import "./index.scss";
 
 function App() {
-  const [mode, setMode] = useState<string>("dark");
+  const [mode, setMode] = useState<string>("light");
 
   const handleModeChange = () => {
     if (mode === "dark") {
@@ -66,6 +67,7 @@ function App() {
               />
               <FadeIn transitionDuration={700}>
                 <Main />
+                <About />
                 <Expertise />
                 <Timeline />
                 <Project />
