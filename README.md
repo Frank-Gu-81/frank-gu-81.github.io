@@ -5,8 +5,12 @@
 
 ## Education
 
-**Northwestern University, Evanston, IL**  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; *Graduation:* June 2025
-*B.S. in Computer Science & Statistics*  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; *GPA:* Cumulative 3.94/4.00 | Major 3.95/4.00 
+**Northwestern University, Evanston, IL**  
+*B.S. in Computer Science & Statistics*  
+*Graduation:* June 2025  
+*GPA:* Cumulative 3.94/4.00 | Major 3.95/4.00  
+*Awards:* High Honors | 1st place in Technical & 1st place in Design, 2023 Northwestern IEEE Annual Showcase  
+*Coursework:* Algorithm Design, Computer Systems, Computer Networking, Deep Learning, Data Structures, Distributed Systems, Database Management Systems, Game Development, Programming Languages, Scalable Software Architectures
  
 *Awards:* High Honors | 1st place in Technical & 1st place in Design, 2023 Northwestern IEEE Annual Showcase  
 *Coursework:* Algorithm Design, Computer Systems, Computer Networking, Deep Learning, Data Structures, Distributed Systems, Database Management Systems, Game Development, Programming Languages, Scalable Software Architectures
