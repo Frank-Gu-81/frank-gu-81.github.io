@@ -1,6 +1,6 @@
 # Shaopeng (Frank) Gu
 
-**Email:** [frankgu2025@u.northwestern.edu](mailto:frankgu2025@u.northwestern.edu)  
+**Email:** [shaopenggu2025@u.northwestern.edu](mailto:shaopenggu2025@u.northwestern.edu)  
 **GitHub:** [Frank-Gu-81](https://github.com/Frank-Gu-81)
 
 ## Education
