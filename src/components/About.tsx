@@ -7,12 +7,13 @@ function About() {
         <div className="self-intro_wrapper">
           <h1>About Me</h1>
           <p>
-            I’m a passionate and results-driven Software Engineer with a strong
-            foundation in backend development, distributed systems, and machine
-            learning. Currently pursuing a B.S. in Computer Science and
-            Statistics at Northwestern University with a 3.94 GPA, I specialize
-            in designing scalable architectures, optimizing system performance,
-            and developing robust APIs.
+            I’m a passionate and results-driven Software Development Engineer at
+            AWS, working on ElastiCache. I have a strong foundation in backend
+            development, distributed systems, and machine learning. I recently
+            graduated from Northwestern University with a B.S. in Computer
+            Science and Statistics (GPA: 3.93). My expertise includes designing
+            scalable architectures, optimizing system performance, and
+            developing robust APIs.
           </p>
           <p>
             My experience spans large-scale data processing, cloud
